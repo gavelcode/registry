@@ -1,16 +1,17 @@
 {
-    "homepage": "https://github.com/gavelcode/gavel-tools",
-    "maintainers": [
-        {
-            "name": "Jorge Olmos",
-            "github": "JorgeOlmosDev"
-        }
-    ],
-    "repository": [
-        "github:gavelcode/gavel-tools"
-    ],
-    "versions": [
-        "0.1.0"
-    ],
-    "yanked_versions": {}
+  "homepage": "https://github.com/gavelcode/gavel-tools",
+  "maintainers": [
+    {
+      "name": "Jorge Olmos",
+      "github": "JorgeOlmosDev"
+    }
+  ],
+  "repository": [
+    "github:gavelcode/gavel-tools"
+  ],
+  "versions": [
+    "0.1.0",
+    "0.2.0"
+  ],
+  "yanked_versions": {}
 }
